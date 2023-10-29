@@ -1,0 +1,15 @@
+{
+  "dashboard": {
+    "keyAccess": "",
+    "usernameAdmin": "",
+    "passwordAdmin": ""
+  },
+  "bcaCredential": {
+    "useridBCA": "",
+    "passwordBCA": "",
+    "accountNumberBCA": "",
+    "nameAccountBCA": ""
+  },
+  "scrapOnStart": false,
+  "scrapOn": false
+}
